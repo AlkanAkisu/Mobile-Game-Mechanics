@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fba2509c8c74de3bc0658d25184ad8b, type: 3}
+  m_Name: Fruit Tiles
+  m_EditorClassIdentifier: 
+  _tileTypes:
+  - {fileID: 11400000, guid: 46447acaa1e7645ae861578de7a67b67, type: 2}
+  - {fileID: 11400000, guid: 8ee8383126cc54feda70e51d971c7fc6, type: 2}
+  - {fileID: 11400000, guid: 7b4f6aa01261c4d5784d4703753cd1cb, type: 2}
+  - {fileID: 11400000, guid: da45d68887bb5464abec05eca7e010a6, type: 2}
+  - {fileID: 11400000, guid: 3714a4b99f6e241d4838c8850209b7b3, type: 2}
+  - {fileID: 11400000, guid: fc61400c529264d1c996a591f9c30271, type: 2}
