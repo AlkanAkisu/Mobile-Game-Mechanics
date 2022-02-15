@@ -10,7 +10,7 @@ This project completed in 3 days for intern application
 - I used ScriptableObjects to make it more designer friendly
 <br>
 
-<img src="/Users/alkan/Desktop/workspace/unity/Mobile-Game-Mechanics/img-gif/idle-gameplay.gif" alt="">  
+<img src="./img-gif/idle-gameplay.gif" alt="">  
 
 <br>
 
@@ -21,4 +21,4 @@ This project completed in roughly 2 days;
 - There is a randomise algorithm working in the back for creating new tiles. This algoritmhs reduces creation of consecutive tiles
 - You can earn score by matching tiles
 - I used ScriptableObjects for tiles and tilemaps. So designer create new tiles with different visuals and different tile maps.
-<img src="/Users/alkan/Desktop/workspace/unity/Mobile-Game-Mechanics/img-gif/match-three-gameplay.gif" alt="">  
+<img src="./img-gif/match-three-gameplay.gif" alt="">  
